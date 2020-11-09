@@ -78,20 +78,7 @@
     "typescript": "4.0.2"
   },
   "dependencies": {
-    "@ampproject/toolbox-cache-list": "file:packages/cache-list",
-    "@ampproject/toolbox-cache-url": "file:packages/cache-url",
-    "@ampproject/toolbox-cli": "file:packages/cli",
-    "@ampproject/toolbox-core": "file:packages/core",
-    "@ampproject/toolbox-cors": "file:packages/cors",
-    "@ampproject/toolbox-runtime-fetch": "file:packages/runtime-fetch",
-    "@ampproject/toolbox-linter": "file:packages/linter",
-    "@ampproject/toolbox-optimizer": "file:packages/optimizer",
-    "@ampproject/toolbox-optimizer-express": "file:packages/optimizer-express",
-    "@ampproject/toolbox-runtime-version": "file:packages/runtime-version",
-    "@ampproject/toolbox-script-csp": "file:packages/script-csp",
-    "@ampproject/toolbox-update-cache": "file:packages/update-cache",
-    "@ampproject/toolbox-validator-rules": "file:packages/validator-rules",
-    "lighthouse-plugin-amp": "file:packages/lighthouse-plugin-amp"
+    "@ampproject/toolbox-linter": "file:packages/linter"
   },
   "husky": {
     "hooks": {
