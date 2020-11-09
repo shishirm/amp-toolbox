@@ -1,5 +1,5 @@
 {
-  "name": "shishirm/toolbox-linter",
+  "name": "@ampproject/toolbox-linter",
   "version": "1.0",
   "description": "A linter for AMP documents",
   "repository": {
