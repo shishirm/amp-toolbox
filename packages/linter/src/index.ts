@@ -1,4 +1,5 @@
 import { cli } from "./cli";
+import { easyLint } from "./cli";
 import { LinkRelCanonicalIsOk } from "./rules/LinkRelCanonicalIsOk";
 import { AmpVideoIsSmall } from "./rules/AmpVideoIsSmall";
 import { AmpVideoIsSpecifiedByAttribute } from "./rules/AmpVideoIsSpecifiedByAttribute";
@@ -193,3 +194,4 @@ export async function lint(
 }
 
 export { cli };
+export {easyLint };
