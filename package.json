@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "shishirm-amptoolbox",
   "private": true,
   "scripts": {
     "build": "lerna run build",
@@ -100,5 +100,14 @@
   },
   "lint-staged": {
     "*.{js,ts}": "eslint  -c .eslintrc.json --cache --fix"
-  }
+  },
+  "description": "<!--- Copyright 2015 The AMP HTML Authors. All Rights Reserved.",
+  "bugs": {
+    "url": "https://github.com/ampproject/amp-toolbox/issues"
+  },
+  "homepage": "https://github.com/ampproject/amp-toolbox#readme",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "author": "shishirm",
+  "license": "ISC"
 }
