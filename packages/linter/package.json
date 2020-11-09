@@ -1,6 +1,6 @@
 {
-  "name": "@ampproject/toolbox-linter",
-  "version": "2.7.0-alpha.4",
+  "name": "shishirm/toolbox-linter",
+  "version": "1.0",
   "description": "A linter for AMP documents",
   "repository": {
     "type": "git",
